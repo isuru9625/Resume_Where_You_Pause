@@ -15,9 +15,9 @@ The mobile devices that are using the app need to have wifi connectivity. To sha
 Implemented Features
 
 In the project , we set out three main deliverables. That was to hand-off,
-A Youtube Video
-A pdf file
-A website (link)
+A Youtube Video or
+A pdf file or
+A website (link) from one android device to an another.
 We were able to implement all three of these delivarables. 
 
 apk - [APK-Resume](https://drive.google.com/drive/folders/1v027j7EjH1gT2St3rZ2nE5RbRzFJ08TB?usp=sharing)
